@@ -1,2 +1,3 @@
-# school-alert
-[ Just School Alert! ]
+# 학교 알리미 🏫
+
+시간 표, 급식 등을 알려주는 학교 알리미입니다!
